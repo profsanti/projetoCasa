@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.produto > p{
+    height: 50px;
+}
+
+.card{
+    display: inline-block;
+    border: 1px solid blue;
+    width: 202px;
+    height: 300px;
+    margin: 30px;
+    vertical-align: top;
+}
+
+.img{
+    background-color: lightblue;
+    color: red;
+    width: 200px;
+    height: 150px;
+}
+
+
+
+
+
+/*
+.cod245 .img{
+    background-color: black;
+    color: white;
+}
+
+.card .promocao{
+    background-color: yellowgreen;
+}
+
+.promocao + p{
+    font-size: 25px;
+    color: green;
+    font-weight: bold;
+    text-align: left;
+}
+*/
